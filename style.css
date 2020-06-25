@@ -1,9 +1,9 @@
 /* Importer une Typographie depuis Google Fonts */
-@import url('https://fonts.googleapis.com/css2?family=Architects+Daughter&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Sniglet&display=swap');
 
 body {
     background-color: #070707;
-    font-family: 'Architects Daughter', cursive; /* Défini la typo de GgFts comme principale sur la page*/
+    font-family: 'Sniglet', cursive; /* Défini la typo de GgFts comme principale sur la page*/
 }
 
 h1 {
