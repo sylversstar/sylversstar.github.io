@@ -36,6 +36,7 @@ table {
 
 img {
     vertical-align: middle;
+    max-width: 90%; /* Pour mettre les imgs au max à 90% de la largeur*/
 }
 
 /* Slideshow container */
